@@ -1,7 +1,7 @@
 # 👋 Oi, eu sou a Amanda
 
 
-Sou estudante da Escola Técnica Estadual Monteiro Lobato, onde curso o técnico em Informática e desenvolvedora **full-stack em formação**, focada em criar aplicações web modernas, bem estruturadas e voltadas para a experiência do usuário.
+Sou estudante da Escola Técnica Estadual Monteiro Lobato, onde curso o técnico em Informática e sou desenvolvedora **full-stack em formação**, focada em criar aplicações web modernas, bem estruturadas e voltadas para a experiência do usuário.
 
 
 ## 🚀 Tecnologias que mais uso
