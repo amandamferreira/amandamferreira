@@ -22,7 +22,7 @@ Plataforma de orientação profissional com **IA**, voltada para ajudar jovens a
 - Autenticação com **Firebase Authentication**
 - Dados no **Firestore**
 
-🔗 [Acessar repositório](www.vocationaltest.com.br)
+🔗 [Acessar repositório](https://github.com/eduarda-guimaraes/Vocational-Test.git)
 
 ---
 
