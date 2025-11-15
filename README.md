@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Oi, eu sou a Amanda
 
-<!--
-**amandamferreira/amandamferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Sou estudante da Escola Técnica Estadual Monteiro Lobato, onde curso o técnico em Informática e desenvolvedora **full-stack em formação**, focada em criar aplicações web modernas, bem estruturadas e voltadas para a experiência do usuário.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Tecnologias que mais uso
+
+- **Front-end:** React, Vite, JavaScript, TypeScript, HTML, CSS, Bootstrap  
+- **Back-end:** Node.js, Express, Python, Flask  
+- **Banco de dados:** Firebase Firestore, MySQL 
+- **Outros:** Git, GitHub, APIs REST, Vercel, Render
+
+---
+
+## 💼 Projetos em destaque
+
+### 🔹 Vocational Test
+Plataforma de orientação profissional com **IA**, voltada para ajudar jovens a escolherem carreiras.
+- Front-end em **React + Vite**
+- Back-end em **Flask (Python)**
+- Autenticação com **Firebase Authentication**
+- Dados no **Firestore**
+
+🔗 [Acessar repositório](www.vocationaltest.com.br)
+
+---
+
+### 🔹 MentorHelp
+Plataforma de mentorias rápidas com **videochamadas**, conectando mentores e alunos.
+- Front-end em **React**
+- Autenticação e dados com **Firebase**
+- Integração com **Jitsi Meet** para as chamadas
+
+🔗 [Acessar repositório](https://mentor-help-amber.vercel.app/)
+
+---
+
+## 📫 Como falar comigo
+
+- 💼 [LinkedIn](http://www.linkedin.com/in/amandamferreiraa)
+- 📧 **euamandaferreira7@gmail.com**
+
+---
