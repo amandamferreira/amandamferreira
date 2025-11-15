@@ -50,5 +50,6 @@ Plataforma de mentorias rápidas com **videochamadas**, conectando mentores e al
 
 - 💼 [LinkedIn](http://www.linkedin.com/in/amandamferreiraa)
 - 📧 **euamandaferreira7@gmail.com**
+- 📱 **(51) 99891-1577**
 
 ---
