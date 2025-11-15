@@ -26,13 +26,13 @@ Plataforma de orientação profissional com **IA**, voltada para ajudar jovens a
 
 ---
 
-### 🔹 MentorHelp
+### 🔹 MentorHelp 
 Plataforma de mentorias rápidas com **videochamadas**, conectando mentores e alunos.
 - Front-end em **React**
 - Autenticação e dados com **Firebase**
 - Integração com **Jitsi Meet** para as chamadas
 
-🔗 [Acessar repositório](https://mentor-help-amber.vercel.app/)
+🔗 [Acessar repositório](https://github.com/amandamferreira/MentorHelp.git)
 
 ---
 
