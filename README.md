@@ -13,6 +13,16 @@ Sou estudante da Escola Técnica Estadual Monteiro Lobato, onde curso o técnico
 
 ---
 
+🌐 Links dos Projetos Hospedados
+
+Aqui estão os projetos que já estão no ar e funcionando:
+
+🔗 Vocational Test: https://vocationaltest.com.br
+
+🔗 MentorHelp : https://mentor-help-amber.vercel.app/
+
+---
+
 ## 💼 Projetos em destaque
 
 ### 🔹 Vocational Test
